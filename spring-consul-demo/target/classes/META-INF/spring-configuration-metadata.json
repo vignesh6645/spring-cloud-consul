@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "my",
+      "type": "com.example.springconsuldemo.MyConfig",
+      "sourceType": "com.example.springconsuldemo.MyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.password",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springconsuldemo.MyConfig"
+    },
+    {
+      "name": "my.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springconsuldemo.MyConfig"
+    }
+  ],
+  "hints": []
+}
